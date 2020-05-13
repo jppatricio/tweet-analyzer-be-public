@@ -1,0 +1,1 @@
+web: gunicorn NAMEOFAPP.wsgi --log-file -
