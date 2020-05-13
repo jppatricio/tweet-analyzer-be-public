@@ -7,7 +7,7 @@ modelo y regresa la precisión del mismo.
 
 ## Getting Started
 
-Para poder utilizar el aplicativo, se debe acceder al Frontend en [TweetLabelerFE](https://github.com/jppatricio/tweet-analyzer-be)
+Para poder utilizar el aplicativo, se debe acceder al Frontend en [TweetLabelerFE](https://github.com/jppatricio/tweet-analyzer-fe)
 
 ### Sobre el algoritmo
 
